@@ -1,0 +1,1 @@
+print(django.get_version())

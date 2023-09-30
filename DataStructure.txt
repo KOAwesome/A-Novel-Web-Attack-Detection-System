@@ -1,0 +1,27 @@
+A Novel Web Attack Detection System for Internet of Things via Ensemble Classification
+
+Deep learning, ensemble classifier, Internet of Things (IoT), web attack detection.
+
+A_Novel_WebAttack_Detection_System
+
+
+a_novel_webattack_detection_system
+
+
+
+webattack_detection
+
+App_Names
+Permissions
+API_Name
+Website_Name
+IP
+Location
+Prediction
+
+
+
+
+webattack_detection,detection_ratio,detection_accuracy
+
+
