@@ -27,4 +27,6 @@ Launch the application:
 
 Visit http://localhost:8000 to access the user interface.
 
+**Authors**
+Sai Rahul N, P.Sai Anusha, Y.Jahnavi, M.Raju, C.Jhansi, B.Shobitha, Ali
     
